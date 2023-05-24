@@ -1,0 +1,14 @@
+img.slide{
+    height: 650px;
+}
+.container{
+   
+    /* border: 1px solid red; */
+}
+.col-4{
+    /* border: 1px solid black; */
+}
+.row{
+    /* border: 1px solid green; */
+    justify-content: center;
+} 
